@@ -1,3 +1,5 @@
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 baseurl = "/"
 languageCode = "en-us"
 title = "Jared Braggins"
@@ -5,7 +7,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "https-jbraggins-netlify-com"
-googleAnalytics = ""
+googleAnalytics = "UA-108165514-1"
 pluralizeListTitles = false
 # Set the followings to true as part of your site SEO
 enableRobotsTXT = true
@@ -15,7 +17,7 @@ canonifyURLs = true
   # Sets the meta tag description
   description          = "HTML5 UP theme, Future Imperfect with some extra goodies, ported by Julio Pescador. Powered by Hugo"
   # Sets the navbarTitle that appears in the top left of the navigation bar
-  navbarTitle          = "Jared Braggins"
+  navbarTitle          = "Home"
   # Sets where "View More Posts" links
   viewMorePostLink     = "/blog/"
 
@@ -96,17 +98,18 @@ canonifyURLs = true
   # This appears at the top of the sidebar above params.intro.header.
   # A width of less than 100px is recommended from a design perspective.
   [params.intro.pic]
-    src       = "/img/main/Profile_pic.jpg"
-    # Sets Image to be a cirlce
+    src       = "/img/main/logo.jpg"
+    # Sets Image to be a circle
     circle    = true
     # Sets Image to be Future Imperfect's hexagon
     imperfect = false
-    width     = ""
+    width = "85"
+    height = "85"
     alt       = "Jared Braggins"
 
 [params.postAmount]
 # Sets the number of recent posts to show in the sidebar. The default value is 5.
-    sidebar = 5
+    sidebar = 3
 
 # Sets the menu items in the navigation bar
 # Identifier prepends a Font Awesome icon to the menu item
