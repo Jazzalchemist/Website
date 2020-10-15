@@ -127,7 +127,7 @@ canonifyURLs = true
 
 [[menu.main]]
   name = "Blog"
-  url = "/post/"
+  url = "/blog/"
   identifier = "fa fa-newspaper-o"
   weight = 3
 
