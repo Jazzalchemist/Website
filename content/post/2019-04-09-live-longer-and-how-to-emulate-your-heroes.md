@@ -22,11 +22,11 @@ I decided to emulate the 'Live Long' chart because a) I wanted to make an intera
 
 Here's the original chart:
 
-<img src="/img/IIB-LiveLong-2552-3.png" title="/img/LiveLong"/>
+<img src="/img/posts/IIB-LiveLong-2552-3.png" title="/img/LiveLong"/>
 
 And my version of it:
 
-<img src="/img/LiveLong_Dashboard.png" title="/img/LiveLong_Emulated_Version"/>
+<img src="/img/posts/LiveLong_Dashboard.png" title="/img/LiveLong_Emulated_Version"/>
 
 #### Reflections
 ##### What worked well?
