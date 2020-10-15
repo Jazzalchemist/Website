@@ -1,6 +1,6 @@
 ---
 title: 'Which Countries Contributed the most to Foreign Aid?'
-author: Jared Braggins
+author: ~
 date: '2019-03-17'
 slug: swd-challenge-march-2019
 categories:

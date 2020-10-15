@@ -1,6 +1,6 @@
 ---
 title: Imposter Syndrome and the Benefit of Self-Reflection
-author: Jared Braggins
+author: ~
 date: '2019-05-09'
 slug: imposter-syndrome-and-the-benefit-of-self-reflection
 categories:
