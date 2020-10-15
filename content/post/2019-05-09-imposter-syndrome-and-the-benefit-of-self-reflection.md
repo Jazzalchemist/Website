@@ -34,7 +34,7 @@ A major driver behind my imposter syndrome happens to be my annoying habit of wa
 So, with that in mind, I decided to visualise my work history and a) reflect on how much I've been progressed as an analyst, and b) push myself with a very difficult, bespoke timeline visualisation. 
 
 Here's the end result:
-<img src="/img/Skills_Dashboard.png" title="/img/Soft Skills for the Win?"/>
+<img src="/img/posts/Skills_Dashboard.png" title="/img/Soft Skills for the Win?"/>
 
 Take a look at the interactive version [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/JobHistory_15568444434680/Skills_Dashboard). 
 

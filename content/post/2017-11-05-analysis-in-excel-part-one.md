@@ -5,7 +5,7 @@ date: '2017-11-05'
 slug: analysis-in-excel-part-one
 categories: [Excel]
 tags: [Excel, Analytics]
-thumbnailImage: "/img/accountant-1794122_640.png"
+thumbnailImage: "/img/posts/accountant-1794122_640.png"
 thumbnailImagePosition: left
 ---
 
@@ -24,7 +24,7 @@ VLOOKUP (vertical lookup) is a function that looks for a value in the first colu
   ```
 Example:
 
-<img src="/img/vlookup.png" title="Vlookup example"/>
+<img src="/img/posts/vlookup.png" title="Vlookup example"/>
 
 One drawback of using the VLOOKUP function is that it can only look from left-to-right. If you want to look for a value from right-to-left you would use .
 
@@ -38,7 +38,7 @@ INDEX + MATCH is two functions used together. INDEX is used to return a specifie
   
 Example:
 
-<img src="/img/index+match.png" title="index + match example"/>
+<img src="/img/posts/index+match.png" title="index + match example"/>
 
 There are many other look-up functions worth looking into like HLOOKUP, or more advanced versions of INDEX + MATCH (e.g. INDEX + MATCH + MATCH), but I personally believe that VLOOKUP and INDEX + MATCH are the best look-up functions to learn first. 
 
@@ -56,7 +56,7 @@ IF is used to test a condition and return a value if the condition is met, or an
   
 Example:
 
-<img src="/img/if.png" title="if example"/>
+<img src="/img/posts/if.png" title="if example"/>
 
 #### AND 
 
@@ -68,7 +68,7 @@ AND will return TRUE if all arguments are TRUE.
 
 Example:
 
-<img src="/img/and.png" title="and example"/>
+<img src="/img/posts/and.png" title="and example"/>
 
 #### OR
 
@@ -80,7 +80,7 @@ OR will return TRUE if any of the arguments are TRUE.
 
 Example:
 
-<img src="/img/or.png" title="orr example"/>
+<img src="/img/posts/or.png" title="orr example"/>
 
 
 AND and OR can be nested in the IF function when you need several test conditions. For example:
@@ -132,7 +132,7 @@ CONCATENATE is used to combine a series of provided text strings into one text s
   
 Example:
 
-<img src="/img/concatenate.png" title="concatenate example"/>
+<img src="/posts/img/concatenate.png" title="concatenate example"/>
 
 #### LEN
 
@@ -144,7 +144,7 @@ LEN is used to find the length of a text string in a cell.
   
 Example:
 
-<img src="/img/len.png" title="len example"/>
+<img src="/img/posts/len.png" title="len example"/>
 
 ### Conclusion
 

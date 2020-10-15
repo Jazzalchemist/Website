@@ -5,7 +5,7 @@ date: '2017-10-29'
 slug: in-defence-of-excel
 categories: [Excel]
 tags: [Excel, Analytics]
-thumbnailImage: "/img/Distracted_Boyfriend_Excel_Meme.png"
+thumbnailImage: "/img/posts/Distracted_Boyfriend_Excel_Meme.png"
 thumbnailImagePosition: bottom
 ---
 

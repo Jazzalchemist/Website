@@ -5,7 +5,7 @@ date: '2017-11-12'
 slug: analysis-in-excel-part-two
 categories: [Excel]
 tags: [Excel, Analytics]
-thumbnailImage: "/img/lukas-blazek-367945.jpg"
+thumbnailImage: "/img/posts/lukas-blazek-367945.jpg"
 thumbnailImagePosition: left
 ---
 
@@ -19,14 +19,14 @@ Conditional formatting allows you to highlight cells based on certain values or 
 Data before applying conditional formatting:
 
 
-<img src="/img/Conditional_formatting1.png" title="Conditional_formatting_example_one"/>
+<img src="/img/posts/Conditional_formatting1.png" title="Conditional_formatting_example_one"/>
 
 
 
 Data after applying conditional formatting to cells A1:A10 (conditional formatting is at the top right of the image):
 
 
-<img src="/img/Conditional_formatting2.png" title="Conditional_formatting_example_two"/>
+<img src="/img/posts/Conditional_formatting2.png" title="Conditional_formatting_example_two"/>
 
 #### Pivot Tables
 
@@ -36,14 +36,14 @@ Pivot tables are great for summarising a data-set. They are incredibly useful fo
 Original sales data:
 
 
-<img src="/img/Pivot1.png" title="Pivot_table_example_one"/>
+<img src="/img/posts/Pivot1.png" title="Pivot_table_example_one"/>
 
 
 
 Pivot table summarising sales data by region:
 
 
-<img src="/img/Pivot2.png" title="Pivot_table_example_two"/>
+<img src="/img/posts/Pivot2.png" title="Pivot_table_example_two"/>
 
 #### Charts
 
@@ -52,7 +52,7 @@ Excel charts come in many shapes and sizes, and are useful for visualising a dat
 Example of plotting sales by region:
 
 
-<img src="/img/Chart.png" title="Chart_example"/>
+<img src="/img/posts/Chart.png" title="Chart_example"/>
 
 #### Remove Duplicates
 
@@ -66,7 +66,7 @@ Freeze panes is useful for when you want to be able to see column or row names i
 Example of scrolling down without losing column names:
 
 
-<img src="/img/Freeze_panes2.png" title="Freeze_pane_example"/>
+<img src="/img/posts/Freeze_panes2.png" title="Freeze_pane_example"/>
 
 
 ### Conclusion

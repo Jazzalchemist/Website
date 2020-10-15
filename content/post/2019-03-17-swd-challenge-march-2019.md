@@ -12,7 +12,7 @@ tags:
   - Tableau
   - Analytics
   - SWDChallenge
-thumbnailImage: "/img/AidData Report.png"
+thumbnailImage: "/img/posts/AidData Report.png"
 thumbnailImagePosition: left
 ---
 
@@ -27,7 +27,7 @@ The dataset came from [AidData](https://www.aiddata.org/data/aiddata-core-resear
 * Create a one page report that addressed the question
 * Zero in on the highest donators and take a look at how they were contributing
 
-<img src="/img/AidData Report.png" title="/img/AidData Report"/>
+<img src="/img/posts/AidData Report.png" title="/img/AidData Report"/>
 
 #### Reflections
 ##### What worked well?
