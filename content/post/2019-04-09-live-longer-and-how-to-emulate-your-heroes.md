@@ -1,6 +1,5 @@
 ---
 title: Live Longer and How to Emulate Your Heroes
-author: Jared Braggins
 date: '2019-04-09'
 slug: live-longer-and-how-to-emulate-your-heroes
 categories:
