@@ -19,3 +19,7 @@ comments: false
 ##### Extinct Plants in Africa
 
 <img src="/img/portfolio/Extinct Plants.png" style="height: 100%; width: 100%;"/>
+
+##### Soft Skills for the Win?
+
+<img src="/img/posts/Skills Dashboard.png" style="height: 100%; width: 100%;"/>
