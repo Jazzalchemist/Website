@@ -10,4 +10,4 @@ comments: false
 
 ##### NZ Crop Yields
 
-<img src="https://github.com/Jazzalchemist/TidyTuesday/blob/master/Week%2036%202002/NZ%20Crops.png" style="height: 100%; width: 100%; object-fit: contain" #onclick="window.open('https://www.behance.net/gallery/100683383/Travelling-to-Outer-Space', 'blank');"/>
+<img src="/img/portfolio/NZ Crops.png" style="height: 100%; width: 100%;"/>
