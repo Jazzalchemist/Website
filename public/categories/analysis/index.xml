@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis on Jared Braggins</title>
+    <link>/categories/analysis/</link>
+    <description>Recent content in Analysis on Jared Braggins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imposter Syndrome and the Benefit of Self-Reflection</title>
+      <link>/post/imposter-syndrome-and-the-benefit-of-self-reflection/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/imposter-syndrome-and-the-benefit-of-self-reflection/</guid>
+      <description>The focus of this month&amp;rsquo;s #SWDChallenge was on artisanal data.
+I found this challenge to be incredibly enjoyable. Why? Because I got to design a visualisation using data that I knew inside and out (since it was about my work history after all!). But hey, that was kinda the point, right?
+I want to take a step back here though. I want to address why I used data about my work history.</description>
+    </item>
+    
+    <item>
+      <title>Live Longer and How to Emulate Your Heroes</title>
+      <link>/post/live-longer-and-how-to-emulate-your-heroes/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/live-longer-and-how-to-emulate-your-heroes/</guid>
+      <description>This month&amp;rsquo;s #SWDChallenge was to find a visualisation you like and emulate it. I went with the &amp;lsquo;Live Long&amp;rsquo; chart by David McCandless of Information is Beautiful. I&amp;rsquo;m a big fan of David&amp;rsquo;s work. His visualisations are stunning. I even own two of his books - Information is Beautiful and Knowledge is Beautiful - which I love to flick through when I&amp;rsquo;m struggling for inspiration.
+I decided to emulate the &amp;lsquo;Live Long&amp;rsquo; chart because a) I wanted to make an interactive version in Tableau, and b) I saw how I could apply my own style to it.</description>
+    </item>
+    
+  </channel>
+</rss>

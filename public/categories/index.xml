@@ -6,31 +6,49 @@
     <description>Recent content in Categories on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo</title>
-      <link>/categories/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Analysis</title>
+      <link>/categories/analysis/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/hugo/</guid>
+      <guid>/categories/analysis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>/categories/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Data Visualisation</title>
+      <link>/categories/data-visualisation/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/go/</guid>
+      <guid>/categories/data-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Jekyll</title>
-      <link>/categories/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Tableau</title>
+      <link>/categories/tableau/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/jekyll/</guid>
+      <guid>/categories/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>/categories/books/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>/categories/excel/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/excel/</guid>
       <description></description>
     </item>
     

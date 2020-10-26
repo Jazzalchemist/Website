@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on Jared Braggins</title>
+    <link>/categories/tableau/</link>
+    <description>Recent content in Tableau on Jared Braggins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/categories/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imposter Syndrome and the Benefit of Self-Reflection</title>
+      <link>/post/imposter-syndrome-and-the-benefit-of-self-reflection/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/imposter-syndrome-and-the-benefit-of-self-reflection/</guid>
+      <description>The focus of this month&amp;rsquo;s #SWDChallenge was on artisanal data.
+I found this challenge to be incredibly enjoyable. Why? Because I got to design a visualisation using data that I knew inside and out (since it was about my work history after all!). But hey, that was kinda the point, right?
+I want to take a step back here though. I want to address why I used data about my work history.</description>
+    </item>
+    
+    <item>
+      <title>Live Longer and How to Emulate Your Heroes</title>
+      <link>/post/live-longer-and-how-to-emulate-your-heroes/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/live-longer-and-how-to-emulate-your-heroes/</guid>
+      <description>This month&amp;rsquo;s #SWDChallenge was to find a visualisation you like and emulate it. I went with the &amp;lsquo;Live Long&amp;rsquo; chart by David McCandless of Information is Beautiful. I&amp;rsquo;m a big fan of David&amp;rsquo;s work. His visualisations are stunning. I even own two of his books - Information is Beautiful and Knowledge is Beautiful - which I love to flick through when I&amp;rsquo;m struggling for inspiration.
+I decided to emulate the &amp;lsquo;Live Long&amp;rsquo; chart because a) I wanted to make an interactive version in Tableau, and b) I saw how I could apply my own style to it.</description>
+    </item>
+    
+    <item>
+      <title>Which Countries Contributed the most to Foreign Aid?</title>
+      <link>/post/swd-challenge-march-2019/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/swd-challenge-march-2019/</guid>
+      <description>After a hiatus of a few months I&amp;rsquo;m back into taking part in the #SWDChallenge!
+March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
+The Data The dataset came from AidData
+My Approach  Create a one page report that addressed the question Zero in on the highest donators and take a look at how they were contributing  Reflections What worked well?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,7 +6,125 @@
     <description>Recent content on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Jun 2017 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I’m a Senior Data Analyst based in Wellington, New Zealand. I have a strong interest in data visualisation and how to effectively communicate through a balance of effective design and thorough analysis.
+My blog is a way for me to document tricks and tips about data visualisation, but it is also a way for me to document things I’ve learned along the way. My favourite tools to blog about are Tableau and R, but I will occasionally stray into blogging about Excel, Python and SQL.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualisation Portfolio</title>
+      <link>/portfolio/</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/portfolio/</guid>
+      <description>Coming Soon&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Imposter Syndrome and the Benefit of Self-Reflection</title>
+      <link>/post/imposter-syndrome-and-the-benefit-of-self-reflection/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/imposter-syndrome-and-the-benefit-of-self-reflection/</guid>
+      <description>The focus of this month&amp;rsquo;s #SWDChallenge was on artisanal data.
+I found this challenge to be incredibly enjoyable. Why? Because I got to design a visualisation using data that I knew inside and out (since it was about my work history after all!). But hey, that was kinda the point, right?
+I want to take a step back here though. I want to address why I used data about my work history.</description>
+    </item>
+    
+    <item>
+      <title>Live Longer and How to Emulate Your Heroes</title>
+      <link>/post/live-longer-and-how-to-emulate-your-heroes/</link>
+      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/live-longer-and-how-to-emulate-your-heroes/</guid>
+      <description>This month&amp;rsquo;s #SWDChallenge was to find a visualisation you like and emulate it. I went with the &amp;lsquo;Live Long&amp;rsquo; chart by David McCandless of Information is Beautiful. I&amp;rsquo;m a big fan of David&amp;rsquo;s work. His visualisations are stunning. I even own two of his books - Information is Beautiful and Knowledge is Beautiful - which I love to flick through when I&amp;rsquo;m struggling for inspiration.
+I decided to emulate the &amp;lsquo;Live Long&amp;rsquo; chart because a) I wanted to make an interactive version in Tableau, and b) I saw how I could apply my own style to it.</description>
+    </item>
+    
+    <item>
+      <title>Which Countries Contributed the most to Foreign Aid?</title>
+      <link>/post/swd-challenge-march-2019/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/swd-challenge-march-2019/</guid>
+      <description>After a hiatus of a few months I&amp;rsquo;m back into taking part in the #SWDChallenge!
+March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
+The Data The dataset came from AidData
+My Approach  Create a one page report that addressed the question Zero in on the highest donators and take a look at how they were contributing  Reflections What worked well?</description>
+    </item>
+    
+    <item>
+      <title>Book Recommendation - The Big Book of Dashboards</title>
+      <link>/post/big-book-dashboards/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/big-book-dashboards/</guid>
+      <description>First of all, I really like how the title says it all - it is indeed a very big book of dashboards.
+I first came across the book in a post over at [Storytelling with Data] (http://www.storytellingwithdata.com/blog/2017/8/9/recommended-reading-the-big-book-of-dashboards) (one of my favourite sites for data visualisation inspiration). Since I pretty much trust anything that Cole Nussbaumer Knaflic endorses, I thought I&amp;rsquo;d buy the book.
+I wasn&amp;rsquo;t disappointed.
+I&amp;rsquo;ve been using this book at work for two to three months now, and I can honestly say that it has helped me more times than I can count when building dashboards.</description>
+    </item>
+    
+    <item>
+      <title>Analysis in Excel - Part Two</title>
+      <link>/post/analysis-in-excel-part-two/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analysis-in-excel-part-two/</guid>
+      <description>Last week I went over some useful Excel functions in the first of two parts about analysis in Excel. For part two I thought I’d go over some other tools available within Excel, including some examples of how to use them.
+Conditional Formatting Conditional formatting allows you to highlight cells based on certain values or rules. Some examples of this includes highlighting duplicate values, or highlighting values over or under a specified value.</description>
+    </item>
+    
+    <item>
+      <title>When to Say No (and a bit of Self-Reflection)</title>
+      <link>/post/when-to-say-no/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/when-to-say-no/</guid>
+      <description>This week I’ve found myself in an all-too familiar trap. It started off with a client asking for a mock-up of a dashboard to be done ASAP. Now, I knew this task was looming on the horizon, but I had been putting it off mainly because I was helping the client with something else arguably more important.
+Just to clarify, I had already talked to the client about putting off working on the dashboard due to the high priority task.</description>
+    </item>
+    
+    <item>
+      <title>Analysis in Excel - Part One</title>
+      <link>/post/analysis-in-excel-part-one/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/analysis-in-excel-part-one/</guid>
+      <description>Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&amp;rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&amp;rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
+Look-up functions Look-up functions are used when you want to find a value that relates to another.</description>
+    </item>
+    
+    <item>
+      <title>In Defence of Excel</title>
+      <link>/post/in-defence-of-excel/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/in-defence-of-excel/</guid>
+      <description>This week I thought I&amp;rsquo;d discuss using Excel for analysis. I also wanted to mention something I recently heard at work.
+A co-worker of mine swears against using Excel for analysis. He will strive to use any other tool at his disposal.
+After discussing his background in business intelligence - and history with tools like Tableau and PowerBI - I can kind of understand where he is coming from based on his current skillset.</description>
+    </item>
+    
+    <item>
+      <title>The first step is taken</title>
+      <link>/post/starting-somewhere-rmd/</link>
+      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/starting-somewhere-rmd/</guid>
+      <description>Hi there!
+First and foremost, welcome to my blog.
+This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:
+  I enjoy the process of writing, and I have recently missed this creative outlet
+  I&amp;rsquo;ve been reading and learning from numerous analytics bloggers for the past three years.</description>
+    </item>
+    
     <item>
       <title>Fancy App 1</title>
       <link>/itemized/item1/</link>
@@ -41,54 +159,6 @@
       
       <guid>/itemized/item4/</guid>
       <description>App 4 </description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>/blog/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>/blog/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/goisforlovers/</guid>
-      <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
-This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>/blog/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/hugoisforlovers/</guid>
-      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
-&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;hugo releases&lt;/a&gt; and download the
-appropriate version for your os and architecture.&lt;/p&gt;
-&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;
-&lt;p&gt;More complete instructions are available at &lt;a href=&#34;/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/migrate-from-jekyll/</guid>
-      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
-&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p&gt;
-&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/
-    ▾ images/
-        logo.png
-&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
     
   </channel>
