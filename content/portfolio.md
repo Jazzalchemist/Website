@@ -22,4 +22,4 @@ comments: false
 
 ##### Soft Skills for the Win?
 
-<img src="/img/posts/Skills Dashboard.png" style="height: 100%; width: 100%;"/>
+<img src="/img/posts/Skills_Dashboard.png" style="height: 100%; width: 100%;"/>
