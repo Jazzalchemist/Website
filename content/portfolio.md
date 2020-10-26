@@ -14,8 +14,8 @@ comments: false
 
 ##### Chopped
 
-<img src="/img/portfolio/NZ Crops.png" style="height: 100%; width: 100%;"/>
+<img src="/img/portfolio/Chopped.png" style="height: 100%; width: 100%;"/>
 
 ##### Extinct Plants in Africa
 
-<img src="/img/portfolio/NZ Crops.png" style="height: 100%; width: 100%;"/>
+<img src="/img/portfolio/Extinct Plants.png" style="height: 100%; width: 100%;"/>
